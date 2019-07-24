@@ -1,0 +1,19 @@
+{
+    "name": "deng-tp5/base-core",
+    "description": "deng-tp5-基类07-17xxxxxxxxxxxxxxxxx",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qq1415551519",
+            "email": "1415551519@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+          "DengTp5\\": "src"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
